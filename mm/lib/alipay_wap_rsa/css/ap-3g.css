@@ -1,0 +1,161 @@
+body,div,p,form{
+	padding:0;
+	margin:0;
+	font-size:12px;
+}
+body{
+	padding: 5px 0 2px 0;
+	line-height:20px;
+}
+img{
+	border:none;
+	vertical-align:-20%;
+}
+
+strong{
+	font-weight:bolder;
+}
+
+.ap-logo{
+	color:#666666;
+	padding:0 4px;
+}
+
+.ap-t{
+    height:14px;
+    padding:2px;
+	border:1px solid #aaaaaa;
+}
+a{
+	color:#0077FF;
+	text-decoration:underline;
+}
+a:hover{
+	color:#ffffff;
+	background-color:#3796FF;
+}
+
+.ap-noline{
+	line-height:14px;
+}
+.ap-c-black{
+	color:#000000;
+}
+.ap-c-gray{
+	color:#999999;
+}
+.ap-c-orange{
+	color:#ff9900;
+}
+.ap-c-red{
+	color:#ff0033;
+}
+.ap-c-green{
+	color:#00CC00;
+}
+.ap-cb-gray{
+	background-color:#F2F2F2;;
+}
+.ap-t-a{
+	height:80px;
+}
+.ap-b{
+	color:#000000;
+	line-height:16px;
+	padding:4px;	
+}
+.ap-p{
+	line-height:18px;
+	padding:4px;
+}
+.ap-pd-3em{
+	padding-left:3em;
+}
+.ap-pd-no-lr{
+	padding-left:0;
+	padding-right:0;
+}
+.b-bt{
+	border-top:1px solid #0077FF;
+	background-color:#8EA9F6;
+}
+.b-acc{
+	border-top:1px solid #0077FF;
+	background-color:#F3EEFF;
+}
+.b-war{
+	border-top:1px solid #FF9900;
+	background-color:#FFFFCC;
+}
+.b-def{
+	border-top:1px solid #AEAEAE;
+	background-color:#F2F2F2;
+}
+.b-hel{
+	border-top:1px solid #00CC00;
+	background-color:#F0FFF0;
+}
+.b-hr{
+	border-top:1px solid #AEAEAE;
+}
+.ap-hr{
+	border-bottom:1px solid #AEAEAE;
+}
+input.ap-btn{
+	border-left:1px solid #ffffff;
+	border-top:1px solid #ffffff;
+	border-right:1px solid #cccccc;
+	border-bottom:1px solid #cccccc;
+	color:#000000;
+	font-weight:bolder;
+	cursor:pointer;
+}
+input.btn-ok{
+	background-color:#FE9800;
+}
+input.btn-cnl{
+	background-color:#e4e4e4;
+}
+input.btn-cfm{
+	background-color:#1070FE;
+	color:#ffffff;
+}
+input.checkbox,input[type=checkbox],input[type=radio]{
+	padding:0;
+	margin-right:4px;
+	cursor:pointer;
+	vertical-align:middle;
+	vertical-align:-20%;
+}
+.ap-tip{
+	background-color:#FFFFCC;
+	padding:6px 5px 6px 10px;
+	border:1px solid #FFCC33;
+	line-height:1.5em;
+}
+.ap-hide{
+	color:#fff;
+	display:none;
+}
+.ap-nbb{
+	background-color:#ffffff;
+	border:none;
+}
+.ap-footer{
+	border-top:1px solid #AEAEAE;
+	line-height:18px;
+	margin-top:3px;	
+	padding:2px 4px;
+}
+.ap-left{
+	margin-left: 5px;
+	line-height:18px; 
+}
+.b-dot{
+	border-top:1px dashed #989898; 
+}
+.ap-top{
+	border:1px solid #000000;
+	margin-left: 2px;
+	width:220px;
+}

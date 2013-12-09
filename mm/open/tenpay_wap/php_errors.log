@@ -1,0 +1,6 @@
+[26-Jan-2013 07:27:12 UTC] PHP Fatal error:  Undefined class constant 'MSG_CHANNEL_STAR_PAY_SS' in /opt/www/venus09/main/common/model/systemmessage.php on line 1276
+[26-Jan-2013 07:27:21 UTC] PHP Fatal error:  Undefined class constant 'MSG_CHANNEL_STAR_PAY_SS' in /opt/www/venus09/main/common/model/systemmessage.php on line 1276
+[26-Jan-2013 07:27:32 UTC] PHP Fatal error:  Undefined class constant 'MSG_CHANNEL_STAR_PAY_SS' in /opt/www/venus09/main/common/model/systemmessage.php on line 1276
+[26-Jan-2013 07:27:55 UTC] PHP Fatal error:  Undefined class constant 'MSG_CHANNEL_STAR_PAY_SS' in /opt/www/venus09/main/common/model/systemmessage.php on line 1276
+[26-Jan-2013 07:28:11 UTC] PHP Fatal error:  Undefined class constant 'MSG_CHANNEL_STAR_PAY_SS' in /opt/www/venus09/main/common/model/systemmessage.php on line 1276
+[01-Feb-2013 08:48:56 UTC] PHP Parse error:  syntax error, unexpected $end in /opt/www/venus09/main/common/model/userprofile.php on line 549

@@ -1,0 +1,6 @@
+redis==2.7.2
+supervisor==3.0a12
+torndb==0.1
+MySQL-python
+inflect
+pynsq

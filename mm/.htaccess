@@ -1,0 +1,3 @@
+# the following works when http.conf has AllowOverride All 
+php_value upload_max_filesize 50M  
+php_value post_max_size 100M 
